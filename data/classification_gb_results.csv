@@ -1,0 +1,17 @@
+model,kf,Accuracy
+none,0,0.0
+ExplainableBoostingC,0,0.861
+ExplainableBoostingC,1,0.8567
+ExplainableBoostingC,2,0.8576
+ExplainableBoostingC,3,0.8616
+ExplainableBoostingC,4,0.8554
+RFC,0,0.858
+RFC,1,0.8577
+RFC,2,0.8563
+RFC,3,0.8584
+RFC,4,0.8548
+GradientBoostingC,0,0.8602
+GradientBoostingC,1,0.8539
+GradientBoostingC,2,0.8581
+GradientBoostingC,3,0.8593
+GradientBoostingC,4,0.8538

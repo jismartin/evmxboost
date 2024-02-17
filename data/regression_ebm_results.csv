@@ -1,0 +1,7 @@
+model,kf,MSE
+none,0,0.0
+ExplainableBoostingR,0,8.961833784177811
+ExplainableBoostingR,1,9.224054841579003
+ExplainableBoostingR,2,9.347418165626342
+ExplainableBoostingR,3,9.315652241069625
+ExplainableBoostingR,4,8.979058151545676
